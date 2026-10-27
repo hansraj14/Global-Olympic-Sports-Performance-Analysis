@@ -1,0 +1,12 @@
+,value
+athlete_rows,166194
+medal_rows,998
+athlete_duplicates,0
+medal_duplicates,0
+athlete_missing_values,78064
+medal_missing_values,986
+athlete_min_year,1992
+athlete_max_year,2026
+medal_min_year,1992
+medal_max_year,2026
+medal_total_mismatches,0
